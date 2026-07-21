@@ -40,4 +40,6 @@ The workflow format transfers between agents, but tool names and model integrati
 
 Runtime tools, downloaded media, Whisper models, transcripts, logs, and generated documents are ignored by the included `.gitignore`. Review the bundled download URLs and your organization's software-installation policy before allowing automatic binary downloads.
 
-No license has been selected. Add an appropriate license before publishing the repository publicly.
+## License
+
+The original code and documentation in this repository are licensed under the [MIT License](LICENSE). Downloaded third-party tools and models remain subject to their own licenses.
