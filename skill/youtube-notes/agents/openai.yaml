@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Notes"
+  short_description: "Create YouTube notes with isolated workers"
+  default_prompt: "Use $youtube-notes to turn this YouTube video into a polished DOCX."

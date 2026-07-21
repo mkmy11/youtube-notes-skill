@@ -1,0 +1,8 @@
+/.youtube-tools/
+/youtube-notes/
+*.bin
+*.docx
+*.jsonl
+*.srt
+*.wav
+*.zip
